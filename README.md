@@ -8,3 +8,5 @@ To play around the prototype, be guided with the following instructions.
 3. Click the picture of the leaf.
 4. Now that you can see the disease of your plant, click learn more at the bottom center.
 5. You will now be on a website to know more about the disease of your plant
+
+If you want to view the notebook click
